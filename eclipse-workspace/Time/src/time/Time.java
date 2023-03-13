@@ -7,6 +7,7 @@ package time;
  * for the testing exercise with JUnit
  *  Winter 2021
  */
+//
 public class Time
 {
 	public static void main(String[] args) 
@@ -20,10 +21,8 @@ public class Time
 	/**
 	 * public static void main(String[] args) {
 	 * try {
-	 * 
 	 * String time = JOptionPane.showInputDialog(null, "Enter a time in the format
 	 * hh:mm:ss:mls", "Enter Time", JOptionPane.QUESTION_MESSAGE);
-	 * 
 	 * int totalMilliseconds = getTotalMilliseconds(time);
 	 * JOptionPane.showMessageDialog(null, totalMilliseconds, "Total Milliseconds",
 	 * JOptionPane.INFORMATION_MESSAGE); } catch(StringIndexOutOfBoundsException e)
