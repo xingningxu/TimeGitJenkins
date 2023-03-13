@@ -19,8 +19,6 @@ public class Time
 	// code for milliseconds format hh:mm:ss:ml
 	/**
 	 * public static void main(String[] args) {
-	 * 
-	 * 
 	 * try {
 	 * 
 	 * String time = JOptionPane.showInputDialog(null, "Enter a time in the format
