@@ -13,7 +13,7 @@ public class Time
 	{
 		// added for ICE6 preparation
 		int totalSeconds = getTotalSeconds("10:10:10");
-		System.out.println("Total Seconds = " + totalSeconds);
+		System.out.println("Github Total Seconds = " + totalSeconds);
 	}
 
 	// code for milliseconds format hh:mm:ss:ml
